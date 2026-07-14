@@ -1,5 +1,3 @@
-# About 🖤
-
 This website serves as a small page for my work, including:
 
 - Art
